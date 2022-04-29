@@ -1,6 +1,6 @@
-- src: Dmitriy-DevOps-trainee.docker_role
+- src: Dmitriy-DevOps-trainee/docker_role
   name: docker_role
-- src: Dmitriy-DevOps-trainee.nginx_role
+- src: Dmitriy-DevOps-trainee/nginx_role
   name: nginx_role
-- src: Dmitriy-DevOps-trainee.web_app_role
+- src: Dmitriy-DevOps-trainee/web_app_role
   name: web_app_role 
