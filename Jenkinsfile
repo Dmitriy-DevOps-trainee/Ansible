@@ -5,7 +5,7 @@ node {
     }
     
     stage('Install roles') {
-        sh "ansible-galaxy install --role-file requirements.yml"
+        sh "ansible-galaxy install -r requirements.yml"
     }
 
     stage('Run ansible playbook') {
