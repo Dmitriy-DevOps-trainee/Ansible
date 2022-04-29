@@ -3,4 +3,4 @@
 - src: Dmitriy_DevOps_trainee.nginx_role
   name: nginx_role
 - src: Dmitriy_DevOps_trainee.web_app_role
-  name: web_app_role 
+  name: web_app_role
